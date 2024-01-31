@@ -166,7 +166,7 @@ The Helm charts are organized into a directory structure with the following key 
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/kyrafld/AWS-Infrastrucutre-Deployment1
+$ git clone https://github.com/kyrafld/AWS-Infrastrucutre-Deployment
 
 # Go into the directory
 $ cd my-aws-helm-chart
