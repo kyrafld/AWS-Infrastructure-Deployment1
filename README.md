@@ -216,4 +216,4 @@ Open http://localhost:8080 in your web browser and log in with the ArgoCD creden
 * Ensure RDS database is configured with the username "postgres", changes to this username can result in unexpected behaviour in PgAdmin.
 
 ## Customisation
-This project can substitute Terraform with [Pulumi]{https://github.com/kyrafld/Pulumi-Infrastrucutre-Deployment}
+This project can substitute Terraform with [Pulumi](https://github.com/kyrafld/Pulumi-Infrastrucutre-Deployment)
